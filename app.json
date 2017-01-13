@@ -1,0 +1,15 @@
+{
+	"name": "cloud-Rware-testing purpose",
+	"website": "https://github.com/maxmm88/ransomware",
+	"repository": "https://github.com/maxmm88/ransomware",
+	"env": {
+		"TITLE": {
+			"description": "Optionally set the title of this instance (defaults to 'Cloud Rware just for testing purpose')",
+			"required": false
+		},
+		"AUTH": {
+			"description": "Optional HTTP authentication in the form user:password",
+			"required": false
+		}
+	}
+}
