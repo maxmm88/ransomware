@@ -46,6 +46,10 @@ sh build-docker.sh make
 
 Done! The binaries live on the bin folder
 
++**Heroku**
++Click this button to...
++[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
 #### Local
 
 You need Go at least 1.7 with the `$GOPATH/bin` in your $PATH
